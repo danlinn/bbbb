@@ -1,0 +1,879 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"foot",
+				"footer_height"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"page_",
+				"page_border_width"
+			],
+			[
+				"headers",
+				"headers-nav_bg_movies"
+			],
+			[
+				"head",
+				"headers-nav_bg_read"
+			],
+			[
+				"more",
+				"more-link"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"community",
+				"community-middle"
+			],
+			[
+				"gold",
+				"gold_link_color"
+			],
+			[
+				"gol",
+				"gold_link_color"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"hor",
+				"hordividerlong"
+			],
+			[
+				"content_",
+				"content_smudge_bg"
+			],
+			[
+				"views-slide",
+				"views-slideshow-pager-fields"
+			],
+			[
+				"active",
+				"active-trail"
+			],
+			[
+				"go",
+				"gold_link_color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"a",
+				"audio	<audio>"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"sprt",
+				"sprites-sprite"
+			],
+			[
+				"title",
+				"title_display"
+			],
+			[
+				"cler",
+				"clearfix"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"im",
+				"img-border"
+			],
+			[
+				"user",
+				"get_current_user"
+			],
+			[
+				"drupal_",
+				"drupal_get_form"
+			],
+			[
+				"sa",
+				"sa-button"
+			],
+			[
+				"get_defined",
+				"get_defined_vars"
+			],
+			[
+				"blac",
+				"black_grad"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"butt",
+				"button-style"
+			],
+			[
+				"button",
+				"button-style"
+			],
+			[
+				"spri",
+				"sprites-sprite"
+			],
+			[
+				"displa",
+				"display	display: common-types"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"boilerplate_prepro",
+				"boilerplate_preprocess_block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/danlinn/Sites/bbbb/index.html",
+			"settings":
+			{
+				"buffer_size": 10270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/danlinn/Sites/bbbb/css/main.css",
+			"settings":
+			{
+				"buffer_size": 11072,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/danlinn/Sites/bbbb/2.html",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/danlinn/Sites/bbbb/img/bg5.gif",
+			"settings":
+			{
+				"buffer_size": 129140,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"synp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn",
+				"Set Syntax: YAML"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"akcag",
+				"Package Control: Install Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"prefixer",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ttr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danlinn/Sites/bbbb/img/bg3.gif",
+		"/Users/danlinn/Sites/bbbb/img/bg2.gif",
+		"/Users/danlinn/Sites/memeplacer/memeplacer.js",
+		"/Users/danlinn/Sites/bbbb/js/plugins.js",
+		"/Users/danlinn/Sites/bbbb/js/jquery.colorbox-min.js",
+		"/Users/danlinn/Sites/bbbb/js/jquery.smooth-scroll.min.js",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/custom/breakpoint_panels/breakpoint_panels.module",
+		"/Users/danlinn/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/danlinn/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/danlinn/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/custom/breakpoint_panels/js/breakpoint_panels.js",
+		"/Users/danlinn/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/danlinn/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/danlinn/Library/Application Support/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/custom/breakpoint_panels/breakpoint_panels.info",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/custom/breakpoint_panels/plugins/styles/breakpoint_pane/breakpoint_pane.inc",
+		"/Users/danlinn/Sites/boilerplate/boilerplate.info",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/templates/html.tpl.php",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/README.txt",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/tabs.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_base.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/css/compiled/tabs.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/css/compiled/style.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_mixins.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/templates/page.tpl.php",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/boilerplate.info",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/config.rb",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/breakpoint_panels/breakpoint_panels.module",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate2/sass/_layout.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/css/tabs.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/css/compiled/tabs2.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/ie8.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/template.php",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/css/compiled/ie6.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/boxton/boxton.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/brenham/brenham.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/brenham_flipped/brenham_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/brown/brown.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/bryant/bryant.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/bryant_flipped/bryant_flipped_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/burr/burr.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/burr_flipped/burr_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/geary/geary.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/harris/harris.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/hewston/hewston.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/hewston_flipped/hewston_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/mccoppin/mccoppin.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/moscone/moscone.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/moscone_flipped/moscone_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/phelan/phelan.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/pond/pond.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/rolph/rolph.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/sanderson/sanderson.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/sanderson_flipped/sanderson_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/selby/selby.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/selby_flipped/selby_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/sutro/sutro.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/sutro_double/sutro_double.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/taylor/taylor.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/taylor_flipped/taylor_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/webb/webb.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/webb_flipped/webb_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/whelan/whelan.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/bartlett_flipped/bartlett_flipped.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/bartlett_flipped/bartlett-flipped.tpl.php",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/bartlett/bartlett.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/layouts/bartlett/bartlett.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/css/style.css",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_modules.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_print.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_document.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_vars.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_layout.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/taxonomy_formatter/taxonomy_formatter.module",
+		"/Users/danlinn/Sites/playground/drupal/themes/bartik/bartik.info",
+		"/Users/danlinn/Sites/playground/drupal/sites/default/settings.php",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/media/includes/media.fields.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/multiupload_filefield_widget/multiupload_filefield_widget.field.inc",
+		"/Users/danlinn/Sites/playground/drupal/modules/file/file.field.inc",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/modules/multiupload_filefield_widget/multiupload_filefield_widget.module",
+		"/Users/danlinn/Sites/playground/drupal/modules/file/file.module",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_mobile.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/styleOLD.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_layout2.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_base2.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/style2.scss",
+		"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass/_custom.scss",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/css/pie.php",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/sass/_pie.scss",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/template.php",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/boilerplate.info",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/sass/style.scss",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/sass/ie8.css",
+		"/Users/danlinn/Sites/mrsl/public_html/sites/all/themes/boilerplate/sass/_ie8.css",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/_defaults.scss",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/template.php",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/layouts/fearnet_home/fearnet-home.tpl.php",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/layouts/fearnet_home/fearnet_home.css",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/layouts/fearnet_home/fearnet_home.inc",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/boilerplate.info",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/templates/node.tpl.php",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/templates/page.tpl.php",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/colorbox/js/colorbox_image_module.js",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/colorbox/js/colorbox_inline.js",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/_custom.scss",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/_customOLD.scss",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/features/fearnet_schedule/fearnet_schedule.module",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/custom/views_pager_weekday/theme/views-pager-weekday.tpl.php",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/views_slideshow/theme/views_slideshow.theme.inc",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/style.scss",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/custom/fearnet_settings/fearnet_settings.module",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/js/libs/modernizr-2.5.3.min.js",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/js/libs/modernizr.2.5.3.min.js",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/js/modernizr.2.5.3.min.js",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/js/modernizr.2.5.3.js",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/features/fearnet_menus/fearnet_menus.module",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/_mobile.scss",
+		"/Users/danlinn/Desktop/crush.html",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/_layout.scss",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/dummyimage/dummyimage.module",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/dummyimage/services/placezombies/placezombies.module",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass/_base.scss",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/dummyimage/services/placezombies/placezombies.info",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/dummyimage/services/placekitten/placekitten.info",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/contrib/dummyimage/services/placekitten/placekitten.module",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/templates/views-view-unformatted.tpl.php",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/custom/fearnet_twitter/fearnet_twitter.info",
+		"/Users/danlinn/Sites/fearnet/drupal/sites/all/modules/custom/fearnet_twitter/fearnet_twitter.module"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/danlinn/Sites/playground/drupal/sites/all/modules/contrib/panels",
+			"/Users/danlinn/Sites/playground/drupal/sites/all/modules/contrib/panels/panels_ipe",
+			"/Users/danlinn/Sites/playground/drupal/sites/all/modules",
+			"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate/sass",
+			"/Users/danlinn/Sites/playground/drupal/sites/all/themes/boilerplate",
+			"/Users/danlinn/Sites/playground/drupal",
+			"/Users/danlinn/Sites/playground/drupal/sites/all/modules",
+			"/Users/danlinn/Sites/mrsl/public_html",
+			"/Users/danlinn/Sites/mrsl/public_html/sites",
+			"/Users/danlinn/Sites/fearnet/drupal/sites/all/themes/boilerplate/sass",
+			"/Users/danlinn/Sites/sportsasylum/webroot/sites/all/modules",
+			"/Users/danlinn/Sites/sportsasylum/drupal/sites/all/themes/boilerplate/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2:before",
+			"header-con",
+			"a {",
+			"nav ul",
+			"main",
+			"page",
+			"section",
+			"nav",
+			"module",
+			"module, ",
+			"panels_edit_cache_set",
+			"dpm",
+			"panels_edit_cache_save",
+			"cache",
+			"save",
+			"bpconfi",
+			"panels-ipe-save",
+			"submit",
+			"save",
+			"panels_ipe_toolbar_add_button",
+			"reporting",
+			"Breakpoint",
+			"breakpoint",
+			"Breakpoint",
+			"breakpoint",
+			"breakpoint_panels",
+			"breakpoint_panels_modal_popup",
+			"popup",
+			"setting",
+			"togg",
+			"dpm",
+			"dpm($content);\n  $bps = breakpoints_breakpoint_load_all_active();\n  $ipemessage = \"\";\n  $hides = array();\n  $css = \"\";\n  foreach ($bps as $name => $bp) {\n    $clean = drupal_clean_css_identifier($bp->name);\n    //if (empty($settings['pane_' . $clean])) {\n      array_push($hides, 'hide_' . $clean);\n      $ipemessage .= '<br />Hidden from ' . $bp->name;\n   // }\n    $css .= \"@media \" . $bp->breakpoint . \" { \" . '.hide_' . $clean . \" { display:none } }\\n .panels-ipe-editing \" . '.hide_' . $clean . \" { display:block }\\n\";\n  }\n\n  drupal_add_css($css, array('group' => CSS_DEFAULT, 'type' => 'inline'));\n  $ipemessage .= (!empty($ipemessage)) ? '<br /><br />' : '';\n\n  $themed = theme('panels_pane', array('content' => $content, 'pane' => $pane, 'display' => $display));\n  $classes= \"\";\n  foreach ($hides as $hide) {\n    $classes .= ' ' . $hide;\n  }\n  $output = \"<div class='$classes'>\";$output .= '<div class=\"ipemessage\">' . $ipemessage . '</div>';\n  $output .= $content->content;\n  $output .= '</div>';\n  drupal_add_css(drupal_get_path('module', 'breakpoint_panels') . '/plugins/styles/breakpoint_pane/breakpoint_pane.css', array('type' => 'file', 'media' => 'screen'));\n  $content->content=$output;\n  dpm($content);",
+			"enquire",
+			"theme",
+			"theme_",
+			"parseRPCookie",
+			"parseBPBreakpoint",
+			"$data = NULL;\n   // Check if there is a valid resolution stored in the cookie.\n  if (isset($_COOKIE['breakpoints'])) {\n    $data = parseRPCookie($_COOKIE['breakpoints']);\n  }\n  if ($data) {\n\n    $bps = breakpoints_breakpoint_load_all_active();\n    foreach ($bps as $breakpoint) {\n      if (!$breakpoint) {\n        continue;\n      }\n\n      $conditions = parseBPBreakpoint($breakpoint->breakpoint);\n      if (!$conditions) {\n        continue;\n      }\n      $matches = array();\n      foreach ($conditions as $cmd => $value) {\n\n        switch ($cmd) {\n          case 'width':\n            $match = $data['width'] === $value;\n            break;\n\n          case 'min-width':\n            $match = $data['width'] >= $value;\n            break;\n\n          case 'max-width':\n            $match = $data['width'] <= $value;\n            break;\n\n          case 'height':\n            $match = $data['height'] === $value;\n            break;\n\n          case 'min-height':\n            $match = $data['height'] >= $value;\n            break;\n\n          case 'max-height':\n            $match = $data['height'] <= $value;\n            break;\n\n          case 'device-width':\n            $match = $data['device-width'] === $value;\n            break;\n\n          case 'min-device-width':\n            $match = $data['device-width'] >= $value;\n            break;\n\n          case 'max-device-width':\n            $match = $data['device-width'] <= $value;\n            break;\n\n          case 'device-height':\n            $match = $data['device-height'] === $value;\n            break;\n\n          case 'min-device-height':\n            $match = $data['device-height'] >= $value;\n            break;\n\n          case 'max-device-height':\n            $match = $data['device-height'] <= $value;\n            break;\n\n          case 'aspect-ratio':\n            $match = $data['width'] / $data['height'] === $value;\n            break;\n\n          case 'min-aspect-ratio':\n            $match = $data['width'] / $data['height'] >= $value;\n            break;\n\n          case 'max-aspect-ratio':\n            $match = $data['width'] / $data['height'] <= $value;\n            break;\n\n          case 'device-aspect-ratio':\n            $match = $data['device-width'] / $data['device-height'] === $value;\n            break;\n\n          case 'min-device-aspect-ratio':\n            $match = $data['device-width'] / $data['device-height'] >= $value;\n            break;\n\n          case 'max-device-aspect-ratio':\n            $match = $data['device-width'] / $data['device-height'] <= $value;\n            break;\n\n          default:\n            // Unsupported.\n            break;\n        }\n\n        if (!$match) break;\n      }\n\n      if ($match) {\n        if (variable_get('breakpoint_panels_load_hidden', \"no\")==\"yes\" || (variable_get('breakpoint_panels_load_hidden_admins', \"no\")==\"yes\" && user_access('administer breakpoints'))) {\n          $rpadmin = TRUE;\n        }\n        foreach ($display->content as $k => $pane) {\n          if (isset($pane->style['settings']['pane_' . drupal_clean_css_identifier($breakpoint->name)])\n          && $pane->style['settings']['pane_' . drupal_clean_css_identifier($breakpoint->name)] == 0\n          && !isset($rpadmin)) {\n            $pane->shown = 0;\n          }\n        }\n      }\n    }\n  }",
+			"setting",
+			".css",
+			"hide_",
+			"trim",
+			"build",
+			"dpm",
+			"checkCondition",
+			"consol",
+			"checkCondition",
+			"enquire",
+			"js",
+			"alter",
+			"settings",
+			"save",
+			"dpm",
+			"2.0-beta1",
+			"export",
+			"class",
+			"css",
+			"style",
+			"alter",
+			"tabs-",
+			"edit",
+			"articl",
+			"article",
+			"condition",
+			"\n  'category' => t('Panopoly'),",
+			"<?",
+			"@media screen and (max-width : 480px) {",
+			"@media screen and (max-width : 800px) {",
+			"$section",
+			"font-size",
+			"font",
+			"padding",
+			"#navi",
+			"widget",
+			"mfw_field_widget_process_multiple(",
+			"file_mfw",
+			"settings_form",
+			"settings_fomr",
+			"settings",
+			"'file'",
+			"field_widget_form()",
+			"defgroup",
+			"group",
+			"groupdef",
+			"with",
+			"---",
+			">>",
+			"<<<<",
+			"png",
+			"default_pic",
+			"default_picdefault_icon",
+			"default_pic",
+			"<<<",
+			"<<<<",
+			"#333",
+			"modal",
+			"button",
+			"input",
+			"button",
+			"#navi",
+			"#navig",
+			"page spe",
+			"#navig",
+			"page so",
+			"#navi",
+			"#navigation",
+			"watch",
+			"subme",
+			"submenu",
+			",",
+			"reviews",
+			"profil",
+			"communi",
+			".profile-",
+			"profile",
+			"sidebar",
+			"sideb",
+			"profile-",
+			"panel-fearnet-home-rightcolumn",
+			"wrapper",
+			"display: none",
+			"disok",
+			"height: 1",
+			"height:1",
+			"sidebar",
+			"-ad",
+			"sidebar-new",
+			"news"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n  'category' => t('Responsive'),",
+			"@include breakpoint($mobile) {",
+			"@include breakpoint($tablet) {",
+			"subheader",
+			"hordivider",
+			"subheader",
+			"hordivider",
+			";\n      background-repeat:no-repeat;",
+			"page-headers",
+			"placezombies",
+			"fearnet_twitter",
+			"$pass",
+			"$form",
+			"url(../../images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/danlinn/Sites/bbbb/index.html",
+					"settings":
+					{
+						"buffer_size": 10270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1058,
+								1058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/danlinn/Sites/bbbb/css/main.css",
+					"settings":
+					{
+						"buffer_size": 11072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7078,
+								7033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5820.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/danlinn/Sites/bbbb/2.html",
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 443.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/danlinn/Sites/bbbb/img/bg5.gif",
+					"settings":
+					{
+						"buffer_size": 129140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/danlinn/Sites/sportsasylum/drupal/sites/all/themes/boilerplate/templates/node.tpl.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": false
+}

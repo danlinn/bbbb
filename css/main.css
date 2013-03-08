@@ -1,0 +1,829 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ===== Initializr Styles ==================================================
+   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+   ========================================================================== */
+
+body {
+    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 5%;
+}
+
+/* ===================
+    ALL: Orange Theme
+   =================== */
+
+/*.header-container {
+    border-bottom: 20px solid #e44d26;
+}
+
+.footer-container,
+.main aside {
+    border-top: 20px solid #e44d26;
+}
+
+.header-container,
+.footer-container,
+.main aside {
+    background: #f16529;
+}
+
+.title {
+    color: white;
+}*/
+
+/* ==============
+    MOBILE: Menu
+   ============== */
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    margin:0 30px;
+}
+
+nav a {
+    display: block;
+    margin-bottom: 10px;
+    padding: 15px 0;
+
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+    color: white;
+}
+
+nav a:hover,
+nav a:visited {
+    color: white;
+}
+
+nav a:hover {
+    /*text-decoration: underline;*/
+}
+
+/* ==============
+    MOBILE: Main
+   ============== */
+
+.main {
+    padding: 30px 0 0;
+}
+
+.main article h1 {
+    font-size: 2em;
+}
+
+.main aside {
+    color: white;
+    padding: 0px 5% 10px;
+}
+
+.footer-container footer {
+    color: white;
+    padding: 20px 0;
+}
+
+/* ===============
+    ALL: IE Fixes
+   =============== */
+
+.ie7 .title {
+    padding-top: 20px;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 480px) {
+
+/* ====================
+    INTERMEDIATE: Menu
+   ==================== */
+
+    nav a {
+        /*float: left;
+        width: 27%;*/
+        margin: 0 1.7%;
+        padding: 25px 2%;
+        margin-bottom: 0;
+    }
+
+    nav li:first-child a {
+        margin-left: 0;
+    }
+
+    nav li:last-child a {
+        margin-right: 0;
+    }
+
+/* ========================
+    INTERMEDIATE: IE Fixes
+   ======================== */
+
+    nav ul li {
+        display: inline-block;
+    }
+
+    .oldie nav a {
+        margin: 0 0.7%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+/* ====================
+    WIDE: CSS3 Effects
+   ==================== */
+
+    .header-container,
+    .main aside {
+
+    }
+
+/* ============
+    WIDE: Menu
+   ============ */
+
+    .title {
+        float: left;
+    }
+
+    nav {
+        /*float: right;
+        width: 38%;*/
+    }
+
+/* ============
+    WIDE: Main
+   ============ */
+
+    .main article {
+        float: left;
+        width: 57%;
+    }
+
+    .main aside {
+        float: right;
+        width: 40%;
+        clear: right;
+    }
+}
+
+@media only screen and (min-width: 1140px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1026px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
+
+/**********************************
+****  THIS IS THE THEME CODE ******
+**********************************/
+
+/* Wolf Theme */
+body.wolf {
+    background:url(../img/wolf/bg.gif) repeat;
+    font-family: 'Metal Mania', cursive;
+}
+.wolf .title {
+    margin-top:0px;
+}
+.wolf .header-container a:hover {
+    text-shadow:2px 2px 10px #000;
+}
+.wolf .header-container {
+    background: url(../img/wolf/eye.jpg) no-repeat;
+    height: 669px;
+    margin-bottom: -83px;
+    position: relative;
+    z-index: 1;
+}
+.wolf .hand-nav {
+    right:-355px;
+    background:url(../img/wolf/moon.png);
+    width: 254px;
+    height: 249px;
+}
+.wolf .hand-nav nav {
+    margin: 66px 0px 0px 12px;
+}
+.wolf #what article:after,
+.wolf #what article:before {
+    content: ".";
+    font-size: 0px;
+    position: absolute;
+    background: none;
+}
+.wolf h2:before {
+    content: ".";
+    background: url(../img/wolf/bullet.png);
+    width: 52px;
+    position: absolute;
+    left: 0px;
+    height: 56px;
+    font-size: 0px;
+    top: 11px;
+}
+.wolf footer {
+    background:url(../img/wolf/footer.jpg);
+    height: 440px;
+    width: 1024px;
+    margin-top: -100px;
+}
+.wolf .main-container {
+    background: #000;
+}
+.wolf .hand-nav a,
+.wolf .hand-nav a:visited {
+    margin:5px 0px;
+    color:#000;
+}
+.wolf .hand-nav a:hover,
+.wolf .hand-nav a:active {
+    color:#F00;
+    text-shadow:2px 2px 3px #666;
+}
+.wolf .wolftoggle {
+    display: none;
+}
+
+.space .wolftoggle {
+	display: block;
+}
+
+.zombie .wolftoggle {
+	display: block;
+}
+
+.wolf .ztoggle {
+	z-index: 999;
+}
+
+/* Space Theme */
+body.space {
+    background:url(../img/space/backgrd.gif) repeat;
+    font-family: 'Audiowide';
+}
+
+.space h1.title{
+	font-family: 'Audiowide';
+}
+
+.space .header-container nav ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 2.5rem;
+}
+
+.space .header-container nav ul li{
+	width: 16%;
+	text-align: center;
+	font-size: 2.5rem;
+}
+
+.space .header-container a:hover {
+    text-shadow:2px 2px 10px #000;
+}
+.space .header-container {
+    background: url(../img/space/spaceHeader2.jpg) no-repeat;
+    background-size: 100%;
+    /*height: 669px;*/
+    margin-bottom: -83px;
+    position: relative;
+    z-index: 1;
+}
+.space .hand-nav {
+    right:-400px;
+    background-image:url(../img/space/spaceNav.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+	width: 431px;
+	height: 575px;
+
+}
+.space .hand-nav nav {
+	margin: 171px 0px 0px 12px;
+}
+
+.space #what article:after,
+.space #what article:before {
+    content: ".";
+    font-size: 0px;
+    position: absolute;
+    background: none;
+}
+
+.space h2:before {
+    content: ".";
+    background-image: url(../img/space/asteroidBullet.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    position: absolute;
+    left: 0px;
+    height: auto;
+
+    font-size: 0px;
+    top: 11px;
+}
+
+.space h2 {
+	padding-left:109px;
+}
+
+.space footer {
+  background: url(../img/space/neptuneFooter.png);
+	/*height: 346px;*/
+	background-size: 100%;
+	/*width: 1038px;*/
+	background-repeat: no-repeat;
+	margin-top: 53px;
+}
+.space .main-container {
+    background: #000;
+}
+.space .hand-nav a,
+.space .hand-nav a:visited {
+    margin:5px 0px;
+    color:#000;
+    text-shadow: 1px 1px 1px white;
+}
+.space .hand-nav a:hover,
+.space .hand-nav a:active {
+    color:#F00;
+    text-shadow:2px 2px 3px #666;
+}
+
+.space .spacetoggle {
+    display: none;
+}
+
+.wolf .spacetoggle {
+	display: block;
+}
+
+.space .wolftoggle {
+	display:block;
+	z-index: 999;
+}
+
+.space .ztoggle {
+	display: block;
+}
+
+
+/**********************************
+****  THIS IS THE DEFAULT CODE ******
+**********************************/
+.zombie .ztoggle {
+    display: none;
+}
+
+
+body {
+    background:url(../img/bg.gif) repeat;
+    font-family: 'Pirata One', cursive;
+    /*font-family: 'Audiowide';*/
+    color:#fff;
+}
+a {
+    text-decoration: none;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;
+    text-shadow:0px 0px 0px black;
+}
+
+a:hover {
+    text-decoration: none;
+    text-shadow:2px 2px 5px #000;
+}
+section {
+    padding: 0px 30px;
+}
+.mainpage {
+    width:1024px;
+    margin:0px auto;
+    -webkit-box-shadow: 0 5px 50px #000;
+       -moz-box-shadow: 0 5px 50px #000;
+            box-shadow: 0 5px 50px #000;
+}
+
+.page {
+    height:500px;
+    clear:both;
+}
+.header-container {
+    background:url(../img/header.png) no-repeat;
+    height:866px;
+    margin-bottom:-50px;
+}
+.fb_ltr {
+    overflow-y:auto;
+}
+.title {
+    font-size:0px;
+    background:url(../img/logo.png);
+    display:block;
+    width:502px;
+    height:186px;
+    margin: 160px 280px 350px;
+}
+h2 {
+    color:#F00;
+    font-size: 50px;
+    line-height: 50px;
+}
+.toggle-holder {
+    position: fixed;
+    top:40px;
+    left:0px;
+}
+.wolftoggle,
+.ztoggle,
+.spacetoggle {
+	display: block;
+    /*width:70px;*/
+    height:30px;
+    border-radius: 0px 5px 5px 0px;
+    padding:0px 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    box-shadow: 3px 3px 5px #555;
+}
+
+.spacetoggle {
+    font-size: 26px;
+}
+.wolftoggle a,
+.ztoggle a,
+.spacetoggle a {
+    color:#fff;
+}
+
+.wolftoggle a:hover,
+.ztoggle a:hover,
+.spacetoggle a:hover {
+    color:#f00;
+    text-shadow: 0px 0px 15px #fff;
+}
+.wolftoggle {
+    background:url(../img/wolf/bg.gif);
+    font-family: 'Metal Mania';
+}
+.ztoggle {
+    background:url(../img/bg.gif);
+    font-family: "Pirata One";
+}
+.spacetoggle {
+	background:url(../img/space/backgrd.gif);
+	font-family: 'Audiowide';
+	font-size:	.75rem;
+}
+
+.hand-nav {
+    -webkit-transition:right 1s ease;
+    -moz-transition:right 1s ease;
+    -o-transition:right 1s ease;
+    -ms-transition:right 1s ease;
+    transition:right 1s ease;
+    right 1s ease;
+    position: fixed;
+    right:-355px;
+    background:url(../img/hand.png);
+    width:355px;
+    height:291px;
+    z-index: 10;
+}
+.hand-nav nav {
+    margin: 92px 0px 0px 75px;
+}
+.hand-nav nav li {
+    margin:0px;
+    font-size:30px;
+    display:block;
+}
+.hand-nav a,
+.hand-nav a:visited {
+    margin:0px;
+    padding:0px;
+    color:#F00;
+}
+.hand-nav a:hover,
+.hand-nav a:active {
+    color:#000;
+    text-shadow:2px 2px 3px #666;
+}
+nav {
+    font-size:60px;
+    text-transform: uppercase;
+}
+nav a {
+    font-weight: normal;
+}
+.hand-nav.active {
+    right:0px;
+}
+#what > section {
+    margin: 85px 0;
+}
+#what {
+    height: auto;
+    clear: both;
+}
+#what article {
+    width: 77%;
+    font-family: georgia;
+    position: relative;
+    float:none;
+    background: rgba(255,255,255,.25);
+    padding:30px;
+}
+#what article:after,
+#what article:before {
+    content: ".";
+    font-size: 0px;
+    position: absolute;
+    background: url(../img/butcher.png);
+    height: 75px;
+    width: 100%;
+    left:0px;
+}
+#what article:after {
+    bottom:-75px;
+}
+#what article:before {
+    top:-75px;
+}
+#where section {
+    width: 57%;
+}
+#where aside {
+    background: #000;
+    margin-bottom:20px;
+}
+#where small a {
+    font-size: 30px;
+}
+#where ul {
+    margin:0px;
+}
+#where h3 {
+    margin-bottom:5px;
+}
+#pics ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+#pics li {
+    display: inline-block;
+    margin:0px 5px 10px 0px;
+}
+/* This adds a skull to all H2s */
+h2 {
+    padding-left: 60px;
+    position: relative;
+    line-height: 80px;
+}
+h2:before {
+    content: ".";
+    background: url(../img/skull.png);
+    width: 52px;
+    position: absolute;
+    left: 0px;
+    height: 82px;
+    font-size: 0px;
+}
+footer {
+    background:url(../img/footer.png);
+    height: 440px;
+    width: 1024px;
+    margin-top: -100px;
+}
