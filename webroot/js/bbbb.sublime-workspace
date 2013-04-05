@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-size"
+			],
+			[
 				"foot",
 				"footer_height"
 			],
@@ -207,15 +211,18 @@
 			"file": "/Users/danlinn/Sites/bbbb/index.html",
 			"settings":
 			{
-				"buffer_size": 10270,
+				"buffer_size": 10529,
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"contents": "/* ==========================================================================\n   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)\n   ========================================================================== */\n\nhtml,\nbutton,\ninput,\nselect,\ntextarea {\n    color: #222;\n}\n\nbody {\n    font-size: 1em;\n    line-height: 1.4;\n}\n\n::-moz-selection {\n    background: #b3d4fc;\n    text-shadow: none;\n}\n\n::selection {\n    background: #b3d4fc;\n    text-shadow: none;\n}\n\nhr {\n    display: block;\n    height: 1px;\n    border: 0;\n    border-top: 1px solid #ccc;\n    margin: 1em 0;\n    padding: 0;\n}\n\nimg {\n    vertical-align: middle;\n}\n\nfieldset {\n    border: 0;\n    margin: 0;\n    padding: 0;\n}\n\ntextarea {\n    resize: vertical;\n}\n\n.chromeframe {\n    margin: 0.2em 0;\n    background: #ccc;\n    color: #000;\n    padding: 0.2em 0;\n}\n\n\n/* ===== Initializr Styles ==================================================\n   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template\n   ========================================================================== */\n\nbody {\n    font: 16px/26px Helvetica, Helvetica Neue, Arial;\n}\n\n.wrapper {\n    width: 90%;\n    margin: 0 5%;\n}\n\n/* ===================\n    ALL: Orange Theme\n   =================== */\n\n/*.header-container {\n    border-bottom: 20px solid #e44d26;\n}\n\n.footer-container,\n.main aside {\n    border-top: 20px solid #e44d26;\n}\n\n.header-container,\n.footer-container,\n.main aside {\n    background: #f16529;\n}\n\n.title {\n    color: white;\n}*/\n\n/* ==============\n    MOBILE: Menu\n   ============== */\n\nnav ul {\n    margin: 0;\n    padding: 0;\n    text-align: center;\n}\n\nnav li {\n    margin:0 30px;\n}\n\nnav a {\n    display: block;\n    margin-bottom: 10px;\n    padding: 15px 0;\n\n    text-align: center;\n    text-decoration: none;\n    font-weight: bold;\n\n    color: white;\n}\n\nnav a:hover,\nnav a:visited {\n    color: white;\n}\n\nnav a:hover {\n    /*text-decoration: underline;*/\n}\n\n/* ==============\n    MOBILE: Main\n   ============== */\n\n.main {\n    padding: 30px 0 0;\n}\n\n.main article h1 {\n    font-size: 2em;\n}\n\n.main aside {\n    color: white;\n    padding: 0px 5% 10px;\n}\n\n.footer-container footer {\n    color: white;\n    padding: 20px 0;\n}\n\n/* ===============\n    ALL: IE Fixes\n   =============== */\n\n.ie7 .title {\n    padding-top: 20px;\n}\n\n/* ==========================================================================\n   Author's custom styles\n   ========================================================================== */\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* ==========================================================================\n   Media Queries\n   ========================================================================== */\n\n@media only screen and (min-width: 480px) {\n\n/* ====================\n    INTERMEDIATE: Menu\n   ==================== */\n\n    nav a {\n        /*float: left;\n        width: 27%;*/\n        margin: 0 1.7%;\n        padding: 25px 2%;\n        margin-bottom: 0;\n    }\n\n    nav li:first-child a {\n        margin-left: 0;\n    }\n\n    nav li:last-child a {\n        margin-right: 0;\n    }\n\n/* ========================\n    INTERMEDIATE: IE Fixes\n   ======================== */\n\n    nav ul li {\n        display: inline-block;\n    }\n\n    .oldie nav a {\n        margin: 0 0.7%;\n    }\n}\n\n@media only screen and (min-width: 768px) {\n\n/* ====================\n    WIDE: CSS3 Effects\n   ==================== */\n\n    .header-container,\n    .main aside {\n\n    }\n\n/* ============\n    WIDE: Menu\n   ============ */\n\n    .title {\n        float: left;\n    }\n\n    nav {\n        /*float: right;\n        width: 38%;*/\n    }\n\n/* ============\n    WIDE: Main\n   ============ */\n\n    .main article {\n        float: left;\n        width: 57%;\n    }\n\n    .main aside {\n        float: right;\n        width: 40%;\n        clear: right;\n    }\n}\n\n@media only screen and (min-width: 1140px) {\n\n/* ===============\n    Maximal Width\n   =============== */\n\n    .wrapper {\n        width: 1026px; /* 1140px - 10% for margins */\n        margin: 0 auto;\n    }\n}\n\n/* ==========================================================================\n   Helper classes\n   ========================================================================== */\n\n.ir {\n    background-color: transparent;\n    border: 0;\n    overflow: hidden;\n    *text-indent: -9999px;\n}\n\n.ir:before {\n    content: \"\";\n    display: block;\n    width: 0;\n    height: 150%;\n}\n\n.hidden {\n    display: none !important;\n    visibility: hidden;\n}\n\n.visuallyhidden {\n    border: 0;\n    clip: rect(0 0 0 0);\n    height: 1px;\n    margin: -1px;\n    overflow: hidden;\n    padding: 0;\n    position: absolute;\n    width: 1px;\n}\n\n.visuallyhidden.focusable:active,\n.visuallyhidden.focusable:focus {\n    clip: auto;\n    height: auto;\n    margin: 0;\n    overflow: visible;\n    position: static;\n    width: auto;\n}\n\n.invisible {\n    visibility: hidden;\n}\n\n.clearfix:before,\n.clearfix:after {\n    content: \" \";\n    display: table;\n}\n\n.clearfix:after {\n    clear: both;\n}\n\n.clearfix {\n    *zoom: 1;\n}\n\n/* ==========================================================================\n   Print styles\n   ========================================================================== */\n\n@media print {\n    * {\n        background: transparent !important;\n        color: #000 !important; /* Black prints faster: h5bp.com/s */\n        box-shadow: none !important;\n        text-shadow: none !important;\n    }\n\n    a,\n    a:visited {\n        text-decoration: underline;\n    }\n\n    a[href]:after {\n        content: \" (\" attr(href) \")\";\n    }\n\n    abbr[title]:after {\n        content: \" (\" attr(title) \")\";\n    }\n\n    /*\n     * Don't show links for images, or javascript/internal links\n     */\n\n    .ir a:after,\n    a[href^=\"javascript:\"]:after,\n    a[href^=\"#\"]:after {\n        content: \"\";\n    }\n\n    pre,\n    blockquote {\n        border: 1px solid #999;\n        page-break-inside: avoid;\n    }\n\n    thead {\n        display: table-header-group; /* h5bp.com/t */\n    }\n\n    tr,\n    img {\n        page-break-inside: avoid;\n    }\n\n    img {\n        max-width: 100% !important;\n    }\n\n    @page {\n        margin: 0.5cm;\n    }\n\n    p,\n    h2,\n    h3 {\n        orphans: 3;\n        widows: 3;\n    }\n\n    h2,\n    h3 {\n        page-break-after: avoid;\n    }\n}\n\n\n/**********************************\n****  THIS IS THE THEME CODE ******\n**********************************/\n\n/* Wolf Theme */\nbody.wolf {\n    background:url(../img/wolf/bg.gif) repeat;\n    font-family: 'Metal Mania', cursive;\n}\n.wolf .title {\n    margin-top:0px;\n}\n.wolf .header-container a:hover {\n    text-shadow:2px 2px 10px #000;\n}\n.wolf .header-container {\n    background: url(../img/wolf/eye.jpg) no-repeat;\n    height: 669px;\n    margin-bottom: -83px;\n    position: relative;\n    z-index: 1;\n}\n.wolf .hand-nav {\n    right:-355px;\n    background:url(../img/wolf/moon.png);\n    width: 254px;\n    height: 249px;\n}\n.wolf .hand-nav nav {\n    margin: 66px 0px 0px 12px;\n}\n.wolf #what article:after,\n.wolf #what article:before {\n    content: \".\";\n    font-size: 0px;\n    position: absolute;\n    background: none;\n}\n.wolf h2:before {\n    content: \".\";\n    background: url(../img/wolf/bullet.png);\n    width: 52px;\n    position: absolute;\n    left: 0px;\n    height: 56px;\n    font-size: 0px;\n    top: 11px;\n}\n.wolf footer {\n    background:url(../img/wolf/footer.jpg);\n    height: 440px;\n    width: 1024px;\n    margin-top: -100px;\n}\n.wolf .main-container {\n    background: #000;\n}\n.wolf .hand-nav a,\n.wolf .hand-nav a:visited {\n    margin:5px 0px;\n    color:#000;\n}\n.wolf .hand-nav a:hover,\n.wolf .hand-nav a:active {\n    color:#F00;\n    text-shadow:2px 2px 3px #666;\n}\n.wolf .wolftoggle {\n    display: none;\n}\n\n.space .wolftoggle {\n	display: block;\n}\n\n.zombie .wolftoggle {\n	display: block;\n}\n\n.wolf .ztoggle {\n	z-index: 999;\n}\n\n/* Space Theme */\nbody.space {\n    background:url(../img/space/backgrd.gif) repeat;\n    font-family: 'Audiowide';\n}\n\n.space h1.title{\n	font-family: 'Audiowide';\n}\n\n.space .header-container nav ul{\n	margin: 0;\n	padding: 0;\n	text-align: center;\n	font-size: 2.5rem;\n}\n\n.space .header-container nav ul li{\n	width: 16%;\n	text-align: center;\n	font-size: 2.5rem;\n}\n\n.space .header-container a:hover {\n    text-shadow:2px 2px 10px #000;\n}\n.space .header-container {\n    background: url(../img/space/spaceHeader2.jpg) no-repeat;\n    background-size: 100%;\n    /*height: 669px;*/\n    margin-bottom: -83px;\n    position: relative;\n    z-index: 1;\n}\n.space .hand-nav {\n    right:-400px;\n    background-image:url(../img/space/spaceNav.png);\n    background-size: 100%;\n    background-repeat: no-repeat;\n	width: 431px;\n	height: 575px;\n\n}\n.space .hand-nav nav {\n	margin: 171px 0px 0px 12px;\n}\n\n.space #what article:after,\n.space #what article:before {\n    content: \".\";\n    font-size: 0px;\n    position: absolute;\n    background: none;\n}\n\n.space h2:before {\n    content: \".\";\n    background-image: url(../img/space/asteroidBullet.png);\n    background-repeat: no-repeat;\n    width: 100px;\n    position: absolute;\n    left: 0px;\n    height: auto;\n\n    font-size: 0px;\n    top: 11px;\n}\n\n.space h2 {\n	padding-left:109px;\n}\n\n.space footer {\n  background: url(../img/space/neptuneFooter.png);\n	/*height: 346px;*/\n	background-size: 100%;\n	/*width: 1038px;*/\n	background-repeat: no-repeat;\n	margin-top: 53px;\n}\n.space .main-container {\n    background: #000;\n}\n.space .hand-nav a,\n.space .hand-nav a:visited {\n    margin:5px 0px;\n    color:#000;\n    text-shadow: 1px 1px 1px white;\n}\n.space .hand-nav a:hover,\n.space .hand-nav a:active {\n    color:#F00;\n    text-shadow:2px 2px 3px #666;\n}\n\n.space .spacetoggle {\n    display: none;\n}\n\n.wolf .spacetoggle {\n	display: block;\n}\n\n.space .wolftoggle {\n	display:block;\n	z-index: 999;\n}\n\n.space .ztoggle {\n	display: block;\n}\n\n\n/**********************************\n****  THIS IS THE DEFAULT CODE ******\n**********************************/\n.zombie .ztoggle {\n    display: none;\n}\n\n\nbody {\n    background:url(../img/bg.gif) repeat;\n    font-family: 'Pirata One', cursive;\n    /*font-family: 'Audiowide';*/\n    color:#fff;\n}\na {\n    text-decoration: none;\n    -webkit-transition: all .5s ease;\n    -moz-transition: all .5s ease;\n    -o-transition: all .5s ease;\n    -ms-transition: all .5s ease;\n    transition: all .5s ease;\n    text-shadow:0px 0px 0px black;\n}\n\na:hover {\n    text-decoration: none;\n    text-shadow:2px 2px 5px #000;\n}\nsection {\n    padding: 0px 30px;\n}\n.mainpage {\n    width:1024px;\n    margin:0px auto;\n    -webkit-box-shadow: 0 5px 50px #000;\n       -moz-box-shadow: 0 5px 50px #000;\n            box-shadow: 0 5px 50px #000;\n}\n\n.page {\n    height:500px;\n    clear:both;\n}\n.header-container {\n    background:url(../img/header.png) no-repeat;\n    height:866px;\n    margin-bottom:-50px;\n}\n.fb_ltr {\n    overflow-y:auto;\n}\n.title {\n    font-size:0px;\n    background:url(../img/logo.png);\n    display:block;\n    width:502px;\n    height:186px;\n    margin: 160px 280px 350px;\n}\nh2 {\n    color:#F00;\n    font-size: 50px;\n    line-height: 50px;\n}\n.toggle-holder {\n    position: fixed;\n    top:40px;\n    left:0px;\n}\n.wolftoggle,\n.ztoggle,\n.spacetoggle {\n	display: block;\n    /*width:70px;*/\n    height:30px;\n    border-radius: 0px 5px 5px 0px;\n    padding:0px 10px;\n    margin-bottom: 5px;\n    font-size: 20px;\n    box-shadow: 3px 3px 5px #555;\n}\n\n.spacetoggle {\n    font-size: 26px;\n}\n.wolftoggle a,\n.ztoggle a,\n.spacetoggle a {\n    color:#fff;\n}\n\n.wolftoggle a:hover,\n.ztoggle a:hover,\n.spacetoggle a:hover {\n    color:#f00;\n    text-shadow: 0px 0px 15px #fff;\n}\n.wolftoggle {\n    background:url(../img/wolf/bg.gif);\n    font-family: 'Metal Mania';\n}\n.ztoggle {\n    background:url(../img/bg.gif);\n    font-family: \"Pirata One\";\n}\n.spacetoggle {\n	background:url(../img/space/backgrd.gif);\n	font-family: 'Audiowide';\n	font-size:	.75rem;\n}\n\n.hand-nav {\n    -webkit-transition:right 1s ease;\n    -moz-transition:right 1s ease;\n    -o-transition:right 1s ease;\n    -ms-transition:right 1s ease;\n    transition:right 1s ease;\n    right 1s ease;\n    position: fixed;\n    right:-355px;\n    background:url(../img/hand.png);\n    width:355px;\n    height:291px;\n    z-index: 10;\n}\n.hand-nav nav {\n    margin: 92px 0px 0px 75px;\n}\n.hand-nav nav li {\n    margin:0px;\n    font-size:30px;\n    display:block;\n}\n.hand-nav a,\n.hand-nav a:visited {\n    margin:0px;\n    padding:0px;\n    color:#F00;\n}\n.hand-nav a:hover,\n.hand-nav a:active {\n    color:#000;\n    text-shadow:2px 2px 3px #666;\n}\nnav {\n    font-size:60px;\n    text-transform: uppercase;\n}\nnav a {\n    font-weight: normal;\n}\n.hand-nav.active {\n    right:0px;\n}\n#what > section {\n    margin: 85px 0;\n}\n#what {\n    height: auto;\n    clear: both;\n}\n#what article {\n    width: 77%;\n    font-family: georgia;\n    position: relative;\n    float:none;\n    background: rgba(255,255,255,.25);\n    padding:30px;\n}\n#what article:after,\n#what article:before {\n    content: \".\";\n    font-size: 0px;\n    position: absolute;\n    background: url(../img/butcher.png);\n    height: 75px;\n    width: 100%;\n    left:0px;\n}\n#what article:after {\n    bottom:-75px;\n}\n#what article:before {\n    top:-75px;\n}\n#where section {\n    width: 57%;\n}\n#where aside {\n    background: #000;\n    margin-bottom:20px;\n}\n#where small a {\n    font-size: 30px;\n}\n#where ul {\n    margin:0px;\n}\n#where h3 {\n    margin-bottom:5px;\n}\n#pics ul {\n    padding: 0;\n    margin: 0;\n    list-style: none;\n}\n#pics li {\n    display: inline-block;\n    margin:0px 5px 10px 0px;\n}\n/* This adds a skull to all H2s */\nh2 {\n    padding-left: 60px;\n    position: relative;\n    line-height: 80px;\n}\nh2:before {\n    content: \".\";\n    background: url(../img/skull.png);\n    width: 52px;\n    position: absolute;\n    left: 0px;\n    height: 82px;\n    font-size: 0px;\n}\nfooter {\n    background:url(../img/footer.png);\n    height: 440px;\n    width: 1024px;\n    margin-top: -100px;\n}\n",
 			"file": "/Users/danlinn/Sites/bbbb/css/main.css",
+			"file_size": 13709,
+			"file_write_time": 1362714248000000,
 			"settings":
 			{
-				"buffer_size": 11072,
+				"buffer_size": 13708,
 				"line_ending": "Unix"
 			}
 		},
@@ -231,7 +238,7 @@
 			"file": "main.js",
 			"settings":
 			{
-				"buffer_size": 1522,
+				"buffer_size": 1730,
 				"line_ending": "Unix"
 			}
 		},
@@ -239,7 +246,7 @@
 			"file": "/Users/danlinn/Sites/bbbb/img/bg5.gif",
 			"settings":
 			{
-				"buffer_size": 129140,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -509,6 +516,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"inline",
+			"position",
+			"toggl",
 			"h2:before",
 			"header-con",
 			"a {",
@@ -633,10 +643,7 @@
 			"disok",
 			"height: 1",
 			"height:1",
-			"sidebar",
-			"-ad",
-			"sidebar-new",
-			"news"
+			"sidebar"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -668,7 +675,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -676,15 +683,15 @@
 					"file": "/Users/danlinn/Sites/bbbb/index.html",
 					"settings":
 					{
-						"buffer_size": 10270,
+						"buffer_size": 10529,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1058,
-								1058
+								2621,
+								2621
 							]
 						],
 						"settings":
@@ -694,7 +701,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 427.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -704,15 +711,15 @@
 					"file": "/Users/danlinn/Sites/bbbb/css/main.css",
 					"settings":
 					{
-						"buffer_size": 11072,
+						"buffer_size": 13708,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7078,
-								7033
+								11300,
+								11300
 							]
 						],
 						"settings":
@@ -722,7 +729,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5820.0,
+						"translation.y": 9152.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -739,13 +746,15 @@
 						"selection":
 						[
 							[
-								195,
-								195
+								375,
+								375
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -758,15 +767,15 @@
 					"file": "main.js",
 					"settings":
 					{
-						"buffer_size": 1522,
+						"buffer_size": 1730,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1355,
-								1355
+								0,
+								0
 							]
 						],
 						"settings":
@@ -786,7 +795,7 @@
 					"file": "/Users/danlinn/Sites/bbbb/img/bg5.gif",
 					"settings":
 					{
-						"buffer_size": 129140,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
